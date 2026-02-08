@@ -1,0 +1,12 @@
+/property-services/
+├── index.html
+├── services.html
+├── how-it-works.html
+├── landlords.html
+├── booking.html
+├── about.html
+├── css/
+│   └── style.css
+└── js/
+    ├── script.js
+    └── booking.js    ← Make sure webhook URL is updated!
