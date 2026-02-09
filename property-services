@@ -9,4 +9,4 @@
 │   └── style.css
 └── js/
     ├── script.js
-    └── booking.js    ← Make sure webhook URL is updated!
+    └── booking.js
